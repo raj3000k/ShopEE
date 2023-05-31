@@ -8,7 +8,7 @@
     "start": "nodemon app.js",
     "server-start": "node app.js"
   },
-  "author": "Mohamed Najathi",
+  "author": "Me",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.1"
